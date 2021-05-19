@@ -1,1 +1,1 @@
-Hey, Here are some of my practices for Web Development.
+Hey, here are some of my practices for Web Development.
