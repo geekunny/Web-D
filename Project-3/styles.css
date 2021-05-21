@@ -1,12 +1,15 @@
 * {
     box-sizing: border-box;
 }
+body{
+    background-color: linen;
+}
 button{
-    display: flex;
-    background-color: burlywood;
+    background-color: lightskyblue;
     font-size: 50px;
-    text-align: center;
+    font-family: cursive;
+    border: none;
 }
 button:hover{
-    background-color: coral;
+    background-color: lightsteelblue;
 }
