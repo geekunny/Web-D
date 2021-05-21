@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+button{
+    display: flex;
+    background-color: burlywood;
+    font-size: 50px;
+    text-align: center;
+}
+button:hover{
+    background-color: coral;
+}
