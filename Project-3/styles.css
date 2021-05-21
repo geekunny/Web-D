@@ -2,14 +2,23 @@
     box-sizing: border-box;
 }
 body{
-    background-color: linen;
+    background-color: cyan;
+}
+.butt {
+    display: flex;
+    justify-content: center;
 }
 button{
-    background-color: lightskyblue;
+    background-color: rgb(4, 202, 202);
     font-size: 50px;
     font-family: cursive;
+    border-radius: 25px;
     border: none;
+    cursor:pointer;
 }
 button:hover{
-    background-color: lightsteelblue;
+    background-color: #a8ffff;
+}
+button:active{
+    background-color: rgb(2, 175, 175);
 }
