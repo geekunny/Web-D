@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: cyan;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: Reggae One;
+    font-size: 70px;
+}
+
+p {
+    font-family: Dancing Script;
+    font-size: 50px;
+}
+
+input {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    font-size: 20px;
+}
+
+.complements {
+    border-bottom: 5px solid darkcyan;
+    padding-bottom: 50px;
+}
