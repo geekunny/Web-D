@@ -15,8 +15,9 @@ h1 {
 }
 
 p {
-    font-family: Dancing Script;
+    font-family: cursive;
     font-size: 50px;
+    font-weight: bold;
 }
 
 input {

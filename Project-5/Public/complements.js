@@ -22,3 +22,8 @@ document.querySelector('.show-complement').addEventListener('click', function() 
             console.error(err);
         });
 });
+// document.querySelector('.add').addEventListener('click', function() {
+//     comp = document.getElementById("add-complement");
+//     comp_text = String(comp.value);
+//     fetch('/add');
+// });
